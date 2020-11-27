@@ -56,10 +56,6 @@ img {
   grid-column: 2;
   grid-row: 1/2;
 }
-footer {
-  display: flex;
-  justify-content: center;
-}
 .footer__text {
   font-family: "Montserrat", sans-serif;
   text-align: center;
@@ -211,4 +207,8 @@ footer {
   .image-box6 {
     grid-row: 6;
   }
+  footer {
+  display: flex;
+  justify-content: center;
+}
 }
