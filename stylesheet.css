@@ -182,11 +182,11 @@ footer {
     grid-template-rows: repeat(6, 1fr);
     row-gap: 3rem;
     margin: 10% 0;
-    place-items: center;
   }
   .crew-profile-container {
     grid-column: 1;
     grid-template-columns: 18rem auto;
+    margin: 0 18%;
   }
 
   img {
